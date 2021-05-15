@@ -37,12 +37,10 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pursuing my BT
 * Google Code-In Mentor 2018 & 2019 - Drupal
 * Guinness World Record Holder - Worlds Largest Canvas Painting(Group)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
-
 ### 💼  Things that I'm currently working on: 
-* Hybrid Trust Models for Cloud Environments
-* Learning Deep Learning.
-* 
+* Hybrid Trust Models for Cloud Environments ☁️
+* Deep Learning 🤖
+* Big Data Analytics in 5G 📱
 * 🔜
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -74,7 +72,9 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pursuing my BT
 <code><a href="https://www.docker.com/" title="docker"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker"></a></code>
 </p>
 
-  
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
+<br>
 Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.
 
 <!-- Profile View Count -->
