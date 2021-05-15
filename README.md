@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BhanuPrakashNani/BhanuPrakashNani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,8 +26,19 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-bhanu_prakash_nani-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bhanu_prakash_nani/)
 [![Gmail](https://img.shields.io/badge/-p.bhanuprakash12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuprakash12345@gmail.com)
 
-I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pusuing my BTech. from Amrita Vishwa Vidyapeetham, Kerala 🏫.  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pusuing my BTech. from Amrita Vishwa Vidyapeetham, Kerala 🏫.
 
+Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
+
+### 💼  Things that I'm currently working on: 
+* Hybrid Trust Models for Cloud Environments
+* Learning Deep Learning.
+* 
+* 🔜
   
 ![Bhanu Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhanuPrakashNani&theme=dark&show_icons=true)
+
+![Bhanu Prakash visitors](https://visitor-badge.glitch.me/badge?page_id=BhanuPrakashNani.BhanuPrakashNani)
+
