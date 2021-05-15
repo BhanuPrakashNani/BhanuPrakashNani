@@ -47,7 +47,7 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pursuing my BT
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/BhanuPrakashNani?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=BhanuPrakashNani&theme=dark&show_icons=true"
+         src="https://github-readme-stats.vercel.app/api?username=BhanuPrakashNani&theme=gotham&show_icons=true"
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
   </a>
