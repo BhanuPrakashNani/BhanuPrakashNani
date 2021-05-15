@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-bhanu_prakash_nani-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bhanu_prakash_nani/)
 [![Gmail](https://img.shields.io/badge/-p.bhanuprakash12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuprakash12345@gmail.com)
 
-I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pusuing my BTech. from Amrita Vishwa Vidyapeetham, Kerala 🏫.
+I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pusuing my BTech. from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
 
-Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
 
@@ -38,7 +38,8 @@ Do :star2: my repositories if you find my projects interesting, at least your st
 * 
 * 🔜
   
+Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.
 ![Bhanu Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhanuPrakashNani&theme=dark&show_icons=true)
 
-![Bhanu Prakash visitors](https://visitor-badge.glitch.me/badge?page_id=BhanuPrakashNani.BhanuPrakashNani)
-
+<!-- Profile View Count -->
+![](https://komarev.com/ghpvc/?username=BhanuPrakashNani&style=flat)
