@@ -32,7 +32,7 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pursuing my BT
 * Member and Mentor - [amFOSS](https://amfoss.in/)
 * Microsoft Student Learn Ambassador - Beta
 * Author - OSFY Magazine
-* Contributor and Mentor - [Drupal]()
+* Contributor and Mentor - [Drupal](https://www.drupal.org/u/bhanuprakashnani)
 * Google Summer of Code 2018 Scholar - Drupal
 * Google Code-In Mentor 2018 & 2019 - Drupal
 * Guinness World Record Holder - Worlds Largest Canvas Painting(Group)
@@ -41,7 +41,15 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pursuing my BT
 * Hybrid Trust Models for Cloud Environments ☁️
 * Deep Learning 🤖
 * Big Data Analytics in 5G 📱
-* 🔜
+
+### Let's talk about
+* Machine Learning
+* Deep Learning
+* Image Processing
+* Open Source
+* Docker
+* Writing Articles
+and anything interesting 😄.
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
