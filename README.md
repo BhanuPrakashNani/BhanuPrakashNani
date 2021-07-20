@@ -31,7 +31,7 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. I am currently pursuing my BT
 ### A Few Things About Me
 * Member and Mentor - [amFOSS](https://amfoss.in/)
 * Microsoft Student Learn Ambassador - Beta
-* Author - OSFY Magazine
+* Author - [OSFY Magazine](https://www.opensourceforu.com/author/bhanu-poluparthi/)
 * Contributor and Mentor - [Drupal](https://www.drupal.org/u/bhanuprakashnani)
 * Google Summer of Code 2018 Scholar - Drupal
 * Google Code-In Mentor 2018 & 2019 - Drupal
