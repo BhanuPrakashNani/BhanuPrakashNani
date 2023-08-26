@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-bhanu_prakash_nani-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bhanu_prakash_nani/)
 [![Gmail](https://img.shields.io/badge/-p.bhanuprakash12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuprakash12345@gmail.com)
 
-I am Bhanu Prakash 😃 from Hyderabad, Telangana. A Software Engineer at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
+I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer Science at New York University, Tandon School of Engineering. I worked as a Data Engineer II at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
 
 ### A Few Things About Me
+* 
 * Member and Mentor - [amFOSS](https://amfoss.in/)
 * Microsoft Student Learn Ambassador - Beta
 * Author - [OSFY Magazine](https://www.opensourceforu.com/author/bhanu-poluparthi/)
@@ -37,9 +38,12 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. A Software Engineer at [Provi
 * Google Code-In Mentor 2018 & 2019 - Drupal
 * Guinness World Record Holder - Worlds Largest Canvas Painting(Group)
 
-### 💼  Things that I'm currently working on: 
+### 💼  Things that I worked on:
+* Market Share Analysis using Machine Learning and SHAP Explainer
+* Predictive Scheduling for Nurses in the Providence Hospital chain
+* PHI De-Identification
+* Brain Strokes Registry
 * Hybrid Trust Models for Cloud Environments ☁️
-* Deep Learning 🤖
 * Big Data Analytics in 5G 📱
 
 ### Let's talk about
