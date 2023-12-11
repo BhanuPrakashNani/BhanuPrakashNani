@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer Science at New York University, Tandon School of Engineering. I worked as a Data Engineer II at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
 
 ### A Few Things About Me
-* Incoming MS CS Student at NYU Tandon(Fall 2023)
+* MS CS Student at NYU Tandon(Fall 2023)
 * Data Engineer II at Providence India(2021-2023)
 * Member and Mentor - [amFOSS](https://amfoss.in/)(2017-Present)
 * Microsoft Student Learn Ambassador - Beta(2020-2021)
