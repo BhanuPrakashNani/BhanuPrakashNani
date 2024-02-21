@@ -31,7 +31,7 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer 
 ### A Few Things About Me
 * Masters in Computer Science at New York University
 * Sr. Data Analytics Engineer at Providence India(2021-2023)
-* Degree with Distinction: Bachelors in Technology - Computer Science and Technology - University Rank 7
+* Degree with Distinction: Bachelors in Technology - Computer Science and Engineering - University Rank 7
 * Member and Mentor - [amFOSS](https://amfoss.in/)(2017-Present)
 * Microsoft Student Learn Ambassador - Beta(2020-2021)
 * Author - [OSFY Magazine](https://www.opensourceforu.com/author/bhanu-poluparthi/)
