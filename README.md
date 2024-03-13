@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-bhanu_prakash_nani-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bhanu_prakash_nani/)
 [![Gmail](https://img.shields.io/badge/-p.bhanuprakash12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuprakash12345@gmail.com)
 
-I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer Science at New York University, Tandon School of Engineering. I worked as a Data Engineer II at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
+I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer Science at New York University, Tandon School of Engineering. I worked as a Sr. Data Analytics Engineer at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
 
 ### A Few Things About Me
 * Masters in Computer Science at New York University
