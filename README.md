@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer Science at New York University, Tandon School of Engineering. I worked as a Sr. Data Analytics Engineer at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
 
 ### A Few Things About Me
+* Data Analyst at NYU Langone Health
 * Masters in Computer Science at New York University
 * Sr. Data Analytics Engineer at Providence India(2021-2023)
 * Degree with Distinction: Bachelors in Technology - Computer Science and Engineering - University Rank 7
