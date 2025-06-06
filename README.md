@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-bhanu_prakash_nani-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/bhanu_prakash_nani/)
 [![Gmail](https://img.shields.io/badge/-p.bhanuprakash12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.bhanuprakash12345@gmail.com)
 
-I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer Science at New York University, Tandon School of Engineering. I worked as a Sr. Data Analytics Engineer at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
+I am Bhanu Prakash 😃 from Hyderabad, Telangana. Graduated with a Masters in Computer Science from New York University, Tandon School of Engineering. I worked as a Data Analyst at NYU Langone Health and as a Senior Data Engineer at [Providence India](https://providence-pgc.jobs/who-we-are/). I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Kerala 🏫. I am passionate about Deep Learning , Image Processing 🖼️ and creating open-source software. 
 
 ### A Few Things About Me
-* Data Analyst at NYU Langone Health
-* Masters in Computer Science at New York University
-* Sr. Data Analytics Engineer at Providence India(2021-2023)
+* AI Engineer at NYU Langone Health
+* Data Analyst at NYU Langone Health(2023-2024)
+* Masters in Computer Science at New York University(2023-2025)
+* Senior Data Engineer at Providence India(2021-2023)
 * Degree with Distinction: Bachelors in Technology - Computer Science and Engineering - University Rank 7
 * Member and Mentor - [amFOSS](https://amfoss.in/)(2017-Present)
 * Microsoft Student Learn Ambassador - Beta(2020-2021)
@@ -52,6 +53,7 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. Pursuing Masters in Computer 
 ### Let's talk about
 * Machine Learning
 * Deep Learning
+* Generative AI - LLMs
 * Image Processing
 * Big Data
 * Open Source
