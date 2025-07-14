@@ -80,18 +80,18 @@ and anything interesting 😄.
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <br>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href="https://nodejs.org/" title="Node.js"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js"></a></code>
+<!-- <code><a href="https://nodejs.org/" title="Node.js"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js"></a></code>
  <code><a href="https://pandas.pydata.org/" title="pandas"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas"></a></code>
-<code><a href="https://numpy.org/" title="NumPy"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy"></a></code>
-<br>
+<code><a href="https://numpy.org/" title="NumPy"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy"></a></code> -->
+<!-- <br> -->
 <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
- <br>
+<!--  <br> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<code><a href="https://www.sublimetext.com/" title="Sublime Text"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text"></a></code>
-<code><a href="https://www.docker.com/" title="docker"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker"></a></code>
+<!-- <code><a href="https://www.sublimetext.com/" title="Sublime Text"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text"></a></code>
+<code><a href="https://www.docker.com/" title="docker"><img height="40" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker"></a></code> -->
 </p>
 
 
