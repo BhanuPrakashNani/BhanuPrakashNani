@@ -43,6 +43,8 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. Graduated with a Masters in C
 * Guinness World Record Holder - Worlds Largest Canvas Painting(Group)
 
 ### 💼  Things that I worked on:
+* Patient Note Summarization using LLM Agents with Prompt Engineering
+* LLM Fine Tuning with RLHF and RLAIF (PPO Policy Gradient)
 * Market Share Analysis using Machine Learning and SHAP Explainer
 * Predictive Scheduling for Nurses in the Providence Hospital chain
 * PHI De-Identification
@@ -54,6 +56,8 @@ I am Bhanu Prakash 😃 from Hyderabad, Telangana. Graduated with a Masters in C
 * Machine Learning
 * Deep Learning
 * Generative AI - LLMs
+* AI Agents
+* Reinforcement Learning
 * Image Processing
 * Big Data
 * Open Source
